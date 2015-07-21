@@ -1,0 +1,1 @@
+set nu --> to get line numbers in vi
