@@ -1,1 +1,6 @@
 set nu --> to get line numbers in vi
+
+Merge a branch to another
+-------------------------
+git checkout branch_name
+git merge branch_to_b_merge
