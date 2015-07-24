@@ -4,3 +4,34 @@ Merge a branch to another
 -------------------------
 git checkout branch_name
 git merge branch_to_b_merge
+
+
+
+
+
+
+sudo subl
+  421  sudo chmod -R 755 /var/www
+  422  sudo cp /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-available/bots.localhost.conf
+  423  sudo nano /etc/apache2/sites-available/bots.localhost.conf 
+  424  sudo subl /etc/apache2/sites-available/bots.localhost.conf 
+  425  sudo nano /etc/hosts
+  426  sudo a2ensite bots.localhost.conf
+  427  sudo service apache2 restart
+  428  cd /var/
+  429  cd www/
+  430  ls
+  431  chmod bots
+  432  chmod 777 bots
+  433  sudo chmod 777 bots
+  434  cls
+  435  clear
+  436  ls -al
+  437  sudo chown -R $USER:$USER bots
+  438  ls -al
+  439  clear
+  440  pear
+  441  sudo apt-get install php-pear
+  442  pear
+  443  pear install Log-1.12.9
+  444  sudo pear install Log-1.12.9
